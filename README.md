@@ -38,7 +38,7 @@
   <a href="https://www.instagram.com/yclgamer/?hl=tr" target="_blank">
    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23333?&style=for-the-badge&logo=instagram&logoColor=#E1306C "/>
 
-
+<!--
 </div>
 
  
@@ -72,7 +72,7 @@ jobs:
           git commit -m "generated"
           git push
 
-
+-->
 
 ![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
 
@@ -83,9 +83,7 @@ jobs:
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
 
 <p align="center">
-  <img height="150" width="150" src="WEBP/left.webp">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=hanzelkaraagac&theme=dark&background=000000"/>
-  <img height="150" width="150" src="WEBP/right.webp">
 </p>
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hanzelkaraagac&theme=dark&background=000000)](https://git.io/streak-stats) -->
 

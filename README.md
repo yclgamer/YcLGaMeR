@@ -8,9 +8,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yclgamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yclgamer" height="30" width="40" /></a>
+<a href="https://linktr.ee/yucelaybey" target="blank"><img align="center" src="https://ugc.production.linktr.ee/HwrgaarzTEOljjhlbkV5_Ag7K55YMvWAE9Ul4?io=true&size=avatar-v3_0" alt="yclgamer" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yucelaybey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yucelaybey" height="30" width="40" /></a>
-<a href="https://fb.com/yclgamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yclgamer" height="30" width="40" /></a>
 <a href="https://instagram.com/yclgamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yclgamer" height="30" width="40" /></a>
 </p>
 
